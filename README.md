@@ -9,3 +9,4 @@ Repositório destinado ao trabalho prático do 1º Bimestre de 2026. O foco prin
 
 ⤷[x] Gerenciamento de requisições e respostas JSON.
 
+blabla
